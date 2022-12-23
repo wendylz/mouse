@@ -30,7 +30,7 @@
 	</head>
 	<body onload="my()">
 		<div >
-			![image](https://github.com/wendylz/mouse/blob/main/mouse.jpg)
+			![image](https://github.com/wendylz/mouse/raw/main/mouse.png)
 			<input type="text" onchange="myfouse()" id="demo" onblur="myfouse()"/>
 		</div>
 		
